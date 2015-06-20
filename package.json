@@ -1,0 +1,21 @@
+{
+    "name": "rest-client",
+    "description": "Execute rest api url",
+    "version": "0.0.1",
+    "main": "./rest-client.js",
+    "author": {
+        "name": "naval patel",
+        "email": "navalmca2009@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/naval/rest-client.git"
+    },
+    "bugs": {
+        "url": "http://github.com/naval/rest-client/issues"
+    }
+}
